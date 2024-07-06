@@ -1,4 +1,4 @@
-🔭 I’m currently working at GyanDhan, India’s first and only education financing marketplace.
+🔭 I’m currently working at <a href="gyandhan.com"> GyanDhan</a>, India’s first and only education financing marketplace.
 
 🌱 I’m currently learning about international education systems and financial aid processes.
 
@@ -7,11 +7,14 @@
 🧗🏾‍♀️ I try to: Simplify financial aid for students and make higher education accessible to all.
 
 🔭 I’m currently working on enhancing our platform's features for a better user experience.
+
 -🤔 I'm looking for help to improve our education loan algorithms.
+
 -🔭 I’m currently exploring new loan products for Indian students studying abroad.
+
 -⚡ Fun fact: I love analyzing data trends in education finance.
 
-👨‍💻 Learn more about our services at GyanDhan.
+👨‍💻 Learn more about our services at <a href="gyandhan.com"> GyanDhan</a>.
 
 📝 I regularly write articles on education financing.
 
