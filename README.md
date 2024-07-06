@@ -14,7 +14,7 @@
 
 -⚡ Fun fact: I love analyzing data trends in education finance.
 
-👨‍💻 Learn more about our services at <a href="gyandhan.com"> GyanDhan</a>.
+👨‍💻 Learn more about our services at GyanDhan.
 
 📝 I regularly write articles on education financing.
 
