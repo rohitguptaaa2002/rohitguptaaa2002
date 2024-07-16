@@ -1,4 +1,4 @@
-🔭 I’m currently working at <a href="gyandhan.com"> GyanDhan</a>, India’s first and only education financing marketplace.
+🔭 I’m currently working at <a href="https://gyandhan.com"> GyanDhan</a>, India’s first and only education financing marketplace.
 
 🌱 I’m currently learning about international education systems and financial aid processes.
 
